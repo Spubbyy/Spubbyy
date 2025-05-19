@@ -10,7 +10,7 @@ Hey there, digital wanderer! 👋 I'm **27**, and I live at the crossroads of co
 
 - 🕵️‍♀️ A consult on a mission to buckle down, innovate and investigate
 - 🔓 I believe in embracing **open-source unity** and the power of community 🧑‍🤝‍🧑  
-- 🧬 Obsessive learner of all things **Python**, **Security** & **Automation** 🤪
+- 🧬 Obsessive learner of all things **Python**, **Security**, **Compliance** & **Automation** 🤪
 
 ## 💻 Tech Arsenal
 
