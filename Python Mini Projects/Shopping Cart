@@ -1,0 +1,20 @@
+#WELCOME SCREEN
+cart = []
+is_shopping = True
+
+def shoppingandstuff():
+    print('Hello, and welcome to your shopping cart\n')
+    print(f"Current items: {cart}:  \n \n")
+
+
+        #ADD ITEM TO CART FUNCTION
+    addtocartitem = input('What would you like to add to the cart? \n')
+    cart.append(addtocartitem)
+
+    print(f'You have added: {addtocartitem} to your cart!\n \n')
+
+    ## DISPLAY LIST
+    print(f'Your current list contains {cart}')
+
+while is_shopping == True:
+    shoppingandstuff()
