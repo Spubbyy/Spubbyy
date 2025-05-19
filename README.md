@@ -1,27 +1,26 @@
 # 🔐 Mr. Sleepyhead himself — An inspiring Cybersecurity Supernova 🚀
 
-![IAM Shield](https://img.shields.io/badge/IAM-GIAC-%2300FF00)
+![IAM Shield](https://img.shields.io/badge/IAM-AUTOMATION-%2300FF00)
 ![Starbucks](https://img.shields.io/badge/Fueled%20By-Starbucks-%23FFDD00)
 ![He/Him](https://img.shields.io/badge/Pronouns-He%2FHim-blue)
 
-Hey there, digital wanderer! 👋 I'm **27**, and I live at the crossroads of code, chaos, and containment. 🧠💥
+Hey there, digital wanderer! 👋 I'm **27**, and I live at the crossroads of code, and chaos. 🧠💥
 
 ## 🌍 About Me
 
-- 🕵️‍♀️ Ethical hacker on a mission to outsmart the bad guys  
-- 🔓 I believe in embracing **open-source security** and the power of community 🧑‍🤝‍🧑  
-- 🎤 Keynote speaker & CTF (Capture The Flag) enthusiast 🏴  
-- 🧬 Obsessive learner of all things **Python** & **malware analysis**
+- 🕵️‍♀️ A consult on a mission to buckle down, innovate and investigate
+- 🔓 I believe in embracing **open-source unity** and the power of community 🧑‍🤝‍🧑  
+- 🧬 Obsessive learner of all things **Python**, **Security** & **Automation** 🤪
 
 ## 💻 Tech Arsenal
 
 | Skill | Level |
 |------|------|
 | 🐍 Python | ⭐⭐ |
-| 🛡️ Network Security | ⭐ |
-| 📜 Bash & PS Scripting | ⭐⭐ |
-| 🧠 Social Engineering Defense | ⭐⭐⭐⭐ |
-| 🧰 Visual Studio Code, Microsoft Entra, Postman | 💯 |
+| 🛡️ Authenticative Access and Security | ⭐⭐⭐ |
+| 📜 Bash & Powershell Scripting | ⭐⭐ |
+| #️⃣ Azure ActiveDirectory/Entra ID | ⭐⭐⭐ |
+| 🧰 Visual Studio Code, Git** | 💯 |
 
 ## ✨ Cool Stuff I've Done
 
@@ -30,23 +29,30 @@ Hey there, digital wanderer! 👋 I'm **27**, and I live at the crossroads of co
 - 🔬 PASS  
 - 📚 PASS  
 
-## 🛠️ Tools & Projects I Love
+## 🛠️ Tools and Projects I Love
 
-- 🔐 [Scrapy](https://www.scrapy.org/): Open-source scraper tool!
+- 🪛 [Scrapy](https://www.scrapy.org/): Open-source scraper tool for Python
 - 🌐 [Hunter Phishing Domain](https://github.com/4st3rIkxx/HunterPhishingDomain): A collection of real-time phishing domain hunters
-- 🧪 [LabRat](https://github.com/avacipher/labrat): A sandbox for malware reverse engineering
+- 🎭 [Playwright](https://playwright.dev/): Isolated test enviorment for automation, visual auditing and log capture 
 - 🛡️ [Shields.io](https://shields.io/): A custom IMG shield generator for keeping things fun
+- 🤖 [Co-Pilot](https://github.com/copilot): An assistive generative tool for developement, learning and speeding up workflow + more
+- 🖵  [Oh-My-Posh](https://ohmyposh.dev/): Deck out your Terminal to look a lot cooler and easier
+- 🐡 [fish shell](https://fishshell.com/): A simple, but beautiful shell for Linux, Mac, Windows that supports many functions ranging from autocompletion, autosuggestion, full scripting and so much more. One of my favorites!!!
 
-## 🔭 Current Mission
+## 🔭 Current Mission and Scope
 
-Making cybersecurity less scary and more **human-friendly** 💖  
-Conquering the whimsical realms of **BASH**, **API** and **Python** 🧙‍♀️🛡️  
+- Making the cybernet less scary and more **human-friendly** 💖  
+- Questing in the whimsical realms of **Powershell**, **API**, **BASH** and **pip librarys** 🧙‍♀️🛡️  
+- Mastery of the core fundementals in the Linux and Windows operating systems 🖥️
+
+## ❔Sidequest(s)
+- Currently none.
 
 ## 🌈 Fun Facts
 
 - 🧩 Huge PC Gamer of all sorts of genres
-- 🎧 I love listening to Taylor Swift while programming  
-- 🐈 Cat uncle to 2 floofy investigators **"Cheech and Mochi"** 🐾
+- 🎧 I love listening to Taylor Swift while programming (my IDE choice is VS Code of course)
+- 🐈 Cat uncle to 2 curious and floofy explorers **"Cheech and Mochi"** 🐾
 - 🇦🇷  Im inspiring in becoming bilingual (ES(Ar)/PT)
 
 ## 📫 Let’s Connect
