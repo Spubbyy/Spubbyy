@@ -21,7 +21,7 @@ Hey there, digital wanderer! 👋 I'm **27**, and I live at the crossroads of co
 | 🛡️ Network Security | ⭐ |
 | 📜 Bash & PS Scripting | ⭐⭐ |
 | 🧠 Social Engineering Defense | ⭐⭐⭐⭐ |
-| 🧰 Visual Studio Code, Microsoft Entra, Metasploit | 💯 |
+| 🧰 Visual Studio Code, Microsoft Entra, Postman | 💯 |
 
 ## ✨ Cool Stuff I've Done
 
