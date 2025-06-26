@@ -27,7 +27,7 @@ Hey there, digital wanderer! 👋 I'm **27**, and I live at the crossroads of co
 
 - 🏆 Obtained my Google Cybersecurity Professional Cert. (2024)
 - 👩‍🏫 Completed an API Dev Jam (featuring Apigee, Postman, Python, HTTP, Powershell, Git, RESTAPI, Proxy Config & Deploy) (2025)  
-- 🔬 Began hands an hands-on internship in IAM Engineering (2025)  
+- 🔬 Began an hands-on shadowing internship in IAM Engineering (2025)  
 - 📚 PASS  
 
 ## 🛠️ Tools and Projects I Love
