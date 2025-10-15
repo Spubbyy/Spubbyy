@@ -4,7 +4,7 @@
 ![Starbucks](https://img.shields.io/badge/Fueled%20By-Starbucks-%23FFDD00)
 ![He/Him](https://img.shields.io/badge/Pronouns-He%2FHim-blue)
 
-Hey there, digital wanderer! 👋 I'm **27**, and I live at the crossroads of code, and chaos. 🧠💥
+Hey there, digital wanderer! 👋 I'm **28**, and I live at the crossroads of code, and chaos. 🧠💥
 
 ## 🌍 About Me
 
